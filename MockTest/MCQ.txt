@@ -1,0 +1,20 @@
+a)32 and 64
+b)int to long
+b)-127
+b)int[] A={1,2,3}
+b)Objects
+b)bc
+d)-1
+b)void
+b)3.0
+b)stack
+d)6
+d)Zero fill right shift
+b)Use of Pointers
+d)Default
+b)Compilation Error
+b)Private
+a)The condition to end the recursion
+a)5,4,3,2,1
+a)/* comment */
+a)final
